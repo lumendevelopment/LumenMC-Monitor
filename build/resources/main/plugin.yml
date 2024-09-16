@@ -1,5 +1,0 @@
-name: LumenMC-Monitor
-version: '1.0'
-main: cloud.lumenvm.main
-api-version: '1.18'
-load: STARTUP
